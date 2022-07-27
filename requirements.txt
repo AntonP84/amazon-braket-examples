@@ -1,0 +1,14 @@
+matplotlib==3.5.2
+numpy==1.23.1
+pandas==1.4.3
+scipy==1.8.1
+
+amazon_braket_sdk==1.27.0
+awscli==1.25.38
+botocore==1.27.38
+boto3==1.24.38
+
+black==22.6.0
+pylint==2.14.5
+ipykernel==6.15.1
+nb_clean==2.1.0
